@@ -3,6 +3,7 @@
   <a href="https://github.com/Luana-Carbonera">
   <img align="eight" src="https://github-readme-stats.vercel.app/api?username=Luana-Carbonera&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img align="eight" src="https://github-readme-streak-stats.herokuapp.com/?user=Luana-Carbonera&theme=highcontrast" alt="Luana-Carbonera" />
+  <img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luana-Carbonera&layout=compact&langs_count=7&theme=highcontrast"/>
   
   
  
